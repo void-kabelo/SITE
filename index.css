@@ -14,3 +14,12 @@
     position:static;
 
 }
+
+.button
+{
+    color: aqua;
+    background-color: black;
+    border:none;
+    border-radius: 25px;
+
+}
